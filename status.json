@@ -3,5 +3,5 @@
   "server": "UP",
   "acceptingEvents": "TRUE",
   "routingEvents": "TRUE",
-  "mode": "NORMAL",
+  "mode": "NORMAL"
 }
